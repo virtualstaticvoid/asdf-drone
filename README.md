@@ -8,6 +8,7 @@
 
 ```
 asdf plugin-add drone https://github.com/virtualstaticvoid/asdf-drone.git
+asdf install drone latest
 ```
 
 ## Use
